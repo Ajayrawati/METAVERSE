@@ -1,0 +1,20 @@
+{
+  "name": "meata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./main/index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.2",
+    "meata": "file:",
+    "nodemon": "^3.1.9",
+    "prisma": "^6.1.0",
+    "react": "^19.0.0",
+    "zod": "^3.24.1"
+  }
+}
